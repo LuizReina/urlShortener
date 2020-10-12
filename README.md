@@ -5,6 +5,8 @@ Já possuindo um conhecimento básico em React Native, resolvi criar (utilizando
 Apesar de ser um projeto simples, foi desafiador encarar uma nova situação e sair um pouco da zona de conforto.
 Além da API, consegui também implementar o sistema de "Copy to Clipboard", que foi mais tranquilo do que imaginava.
 
+Atualmente a visualização mobile ainda não está funcional devido à um erro referente ao módulo "https" (que ainda não consegui resolver), somente a visualização web.
+
 CodeReviews e feedbacks construtivos são sempre bem-vindos!
 
 
